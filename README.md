@@ -1,4 +1,4 @@
-# Bakery Simulation
+# 🥖 Bakery Simulation
 This project simulates a bakery production system using multithreading in C++.
 - **Millers** supply ingredients (flour and water).
 - **Bakers** use the ingredients to bake bread.
